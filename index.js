@@ -1,3 +1,3 @@
-function add() {
-  '3' + '17';
+function add( a, b ) {
+  3 + 17;
 }
