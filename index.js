@@ -37,3 +37,7 @@ function makeInt( a ) {
 function preserveDecimal( a ) {
   return parseFloat( a / 5 );
 }
+
+function preserveDecimal( a ) {
+  return parseFloat( ass );
+}
