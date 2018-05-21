@@ -1,1 +1,3 @@
-add( 3, 7 )
+function add() {
+  3 + 17;
+}
