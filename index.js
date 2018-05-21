@@ -27,7 +27,7 @@ function inc( a ) {
 }
 
 function makeInt( a ) {
-  return parseInt('2', 10);
+  return parseInt('a', 10);
 }
 
 function makeInt( a ) {
@@ -35,7 +35,7 @@ function makeInt( a ) {
 }
 
 function preserveDecimal( a ) {
-  return parseFloat( `2.222` );
+  return parseFloat( `a` );
 }
 
 function preserveDecimal( a ) {
