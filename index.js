@@ -27,17 +27,17 @@ function inc( a ) {
 }
 
 function makeInt( n ) {
-  return parseInt('a', 10);
+  return parseInt( a, 10);
 }
 
 function makeInt( a ) {
-  return parseInt( 'david');
+  return parseInt( david );
 }
 
 function preserveDecimal( n ) {
-  return parseFloat( `2.222` );
+  return parseFloat( 2.222 );
 }
 
 function preserveDecimal( a ) {
-  return parseFloat( 'ass' );
+  return parseFloat( ass );
 }
