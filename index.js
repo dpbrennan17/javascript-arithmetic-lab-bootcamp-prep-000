@@ -27,7 +27,7 @@ function inc( a ) {
 }
 
 function makeInt( n ) {
-  return parseInt( 'a' );
+  return parseInt('2', 10);
 }
 
 function makeInt( n ) {
