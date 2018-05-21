@@ -27,7 +27,9 @@ function inc( a ) {
 }
 
 function makeInt( a ) {
+  if ( a === parseInt(a) ) {
   return parseInt( 'a', 10);
+}
 }
 
 function makeInt( a ) {
