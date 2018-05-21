@@ -34,10 +34,10 @@ function makeInt( a ) {
   return parseInt( 'david' );
 }
 
-function preserveDecimal( a ) {
+function preserveDecimal( ) {
   return parseFloat( 2.222 );
 }
 
-function preserveDecimal( a ) {
+function preserveDecimal( ) {
   return parseFloat( 'ass' );
 }
