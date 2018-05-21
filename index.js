@@ -1,3 +1,3 @@
 function add( a, b ) {
-  3 + 17;
+  a + b;
 }
