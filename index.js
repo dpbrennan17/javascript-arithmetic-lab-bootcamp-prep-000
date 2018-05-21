@@ -33,3 +33,7 @@ function makeInt( a ) {
 function makeInt( a ) {
   return parseInt( david );
 }
+
+function preserveDecimal( a ) {
+  return parseFloat( a / 5 );
+}
