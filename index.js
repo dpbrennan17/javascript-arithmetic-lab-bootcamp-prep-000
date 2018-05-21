@@ -35,7 +35,5 @@ function preserveDecimal( a ) {
 
 }
 
-function preserveDecimal (n) {
-  return parseInt ( 'sldkjflksjf' )
-}
+
 
