@@ -26,18 +26,18 @@ function inc( a ) {
   return parseInt( a + 1 );
 }
 
-function makeInt( n ) {
+function makeInt( a ) {
   return parseInt('2', 10);
 }
 
-function makeInt( n ) {
+function makeInt( a ) {
   return parseInt( 'david');
 }
 
-function preserveDecimal( n ) {
+function preserveDecimal( a ) {
   return parseFloat( '2.222' );
 }
 
-function preserveDecimal( n ) {
+function preserveDecimal( a ) {
   return parseFloat( 'ass' );
 }
