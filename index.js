@@ -31,7 +31,7 @@ function makeInt( a ) {
 }
 
 function preserveDecimal( n ) {
-  if ( n =="sldkjflksjf") {
+  if ( a =="sldkjflksjf") {
     return parseFloat ( 'david' ) 
 }
   else{
