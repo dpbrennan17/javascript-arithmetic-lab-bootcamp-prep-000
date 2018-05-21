@@ -23,5 +23,5 @@ function dec( a ) {
 }
 
 function inc( a ) {
-  return parseInt( a );
+  return parseInt( a + 1 );
 }
