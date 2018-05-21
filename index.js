@@ -30,7 +30,7 @@ function makeInt( a ) {
   return parseInt( a , 10);
 }
 
-function preserveDecimal( n ) {
+function preserveDecimal( a ) {
   if ( a =="sldkjflksjf") {
     return parseFloat ( 'david' ) 
 }
