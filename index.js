@@ -29,12 +29,11 @@ function inc( a ) {
 function makeInt( a ) {
   if ( a === parseInt(a) ) {
   return parseInt( 'a', 10);
+} else {
+  return parseInt( 'david' );
 }
 }
 
-function makeInt( a ) {
-  return parseInt( 'david' );
-}
 
 function preserveDecimal( ) {
   return parseFloat( 2.222 );
