@@ -27,7 +27,7 @@ function inc( a ) {
 }
 
 function makeInt( a ) {
-  return parseInt(`a`, 10);
+  return parseInt('2.2222', 10);
 }
 
 function makeInt( a ) {
